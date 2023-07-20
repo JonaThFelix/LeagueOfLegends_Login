@@ -1,8 +1,10 @@
-# League Of Legends_Login
+# League Of Legends - Tela de Login
+
+![readme](https://github.com/JonaThFelix/LeagueOfLegends_Login/assets/123984244/29e38cc1-e725-4124-b98a-7107750fef2a)
 
 
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejMyeG91N2lmMXIxdm11NWl0c29yc2RvemZzdDRjN29uYW9wMDM0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YfyX5wCGiob3O1ToxW/giphy.gif
 
 </br>
 Tela de Login do jogo League of Legends utilizando HTML5, CSS3 e Java Script.
+</br>
 Acesse o projeto final em 👉🏽: 
